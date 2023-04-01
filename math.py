@@ -1,3 +1,7 @@
+#Create by : Yasin Allahyari
+#instagram : @i._.ya3in
+#E-mail : Yasinallahyari@yahoo.com
+
 p1=[1,1]
 p2=[2,4]
 
